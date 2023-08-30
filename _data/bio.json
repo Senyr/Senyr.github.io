@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ryne Stagen",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/Senyr.png",
+    "email": "rynestagen@gmail.com",
+    "phone": "808-123-4444",
+    "website": "https://Senyr.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Senyr", "url": "http://github.com/Senyr" },
+      { "network": "linkedin", "username": "Senyr", "url": "http://linkedin.com/in/rstagen" },
+      { "network": "twitter", "username": "Senyr", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "Senyr", "url": "http://instagram.com/_Senyr" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Programming" },
+    { "name": "Astronomy" },
+    { "name": "Cars" },
+    { "name": "Working Out" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub"]
     }
   ],
   "education": [
@@ -45,15 +45,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Target",
+      "position": "Flex Fullfillment",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "The fulfillment team picks, preps, packs, sorts, and ships products safely, efficiently and effectively to deliver convenience and quality for our guests.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Experience in retail business fundamentals including: department sales trends, inventory management, and process efficiency and improvement",
+        "Skills to assess your daily business and utilize tools to determine how to meet digital demand"
       ]
     },
     {
@@ -71,44 +71,27 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kroc Center",
+      "website": "https://kroccenterhawaii.org/kroc-hawaii/",
+      "position": "Helper",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "Helping the community",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Making the community a cleaner place",
+        "Working with others to achieve a common goal"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+"Add here for changes in the future"
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "CTE Honors",
+      "date": "2021",
+      "awarder": "Kapolei High School",
+      "summary": "Awarded to those who completed the CTE Honors project."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    
   ],
   "references": [
     {
