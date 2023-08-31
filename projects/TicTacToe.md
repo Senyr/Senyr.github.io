@@ -11,9 +11,9 @@ summary: "Its a fun TicTacToe Game."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  
+  <img width="200px" src="../img/TicTacToeGame.png" class="img-thumbnail" >
+ 
 </div>
 
 The TicTacToe program sets up a TicTacToe game board on a 3x3 grid. Each player gets a turnn going, Player One's mark is an "X" while Player Two's mark is an "O". The first player to get 3 in a row with their mark wins. If no player wins it ends in a draw
