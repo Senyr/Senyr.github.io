@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Senyr", "url": "http://github.com/Senyr" },
-      { "network": "linkedin", "username": "Senyr", "url": "http://linkedin.com/in/rstagen" },
+      { "network": "linkedin", "username": "Ryne Stagen", "url": "https://www.linkedin.com/in/ryne-stagen-403ab7289/" },
       { "network": "twitter", "username": "Senyr", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "Senyr", "url": "http://instagram.com/_Senyr" }
     ]
