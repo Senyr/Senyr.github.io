@@ -1,0 +1,25 @@
+---
+layout: project
+type: project
+image: img/tictactoe.png
+title: "G35"
+date: 2022
+published: true
+labels:
+  - Java
+summary: "I fixed up a broken car"
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
+My interests in cars inspired to learn how the basics of a car work. I bought a broken car off of FaceBook Market place that didnt start or fully built so I dedicated myself to learn how to learn the ins and outs and got it to work again 
+
+
+
+
+
+You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
