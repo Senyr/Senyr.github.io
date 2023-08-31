@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/download.jpg
+image: img/tictactoe.png
 title: "HR"
 date: 2022
 published: true
 labels:
   - Java
-summary: "I created a program that can add/delete employees and add certain information to their ID."
+summary: "Its a fun TicTacToe Game."
 ---
 
 <div class="text-center p-4">
