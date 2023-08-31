@@ -12,7 +12,7 @@ summary: "Its a fun TicTacToe Game."
 
 <div class="text-center p-4">
   
-  <img width="200px" src="../img/TicTacToeGame.png" class="img-thumbnail" >
+  <img width="400px" src="../img/TicTacToeGame.png" class="img-thumbnail" >
  
 </div>
 
