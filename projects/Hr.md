@@ -11,9 +11,7 @@ summary: "I created a program that can add/delete employees and add certain info
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+
 </div>
 
 The Hr program will give you options based off what you want to do such as 1) Add employee 2) Remove employee 3) Print employees that earn a given amount 4) Print all the employees. Based off the option you choose there is a prompt that tells you what to do and it stores the information between each option.
