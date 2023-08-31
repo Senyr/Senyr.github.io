@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/tictactoe.png
-title: "HR"
+title: "TicTacToe"
 date: 2022
 published: true
 labels:
