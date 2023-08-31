@@ -68,9 +68,7 @@
         "Making the community a cleaner place",
         "Working with others to achieve a common goal"
       ]
-},
-  ],
-"volunteer": [
+    },
     {
       "organization": "Kapolei High School",
       "website": "https://www.kapoleihigh.org/",
@@ -80,10 +78,10 @@
       "summary": "Helped and learned construction work for the Makakilo Elementary School",
       "highlights": [
         "Making a better environment for kids",
-        "Learning new skills"
+        "Learning new skills",
         "Working as a team"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -91,8 +89,7 @@
       "date": "2021",
       "awarder": "Kapolei High School",
       "summary": "Awarded to those who completed the CTE Honors project."
-    },
-    
+    }
   ],
   "references": [
     {
