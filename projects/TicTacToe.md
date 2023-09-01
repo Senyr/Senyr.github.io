@@ -66,6 +66,3 @@ public class TicTacToe implements ActionListener{
 		firstTurn();
 	}
 
-
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
