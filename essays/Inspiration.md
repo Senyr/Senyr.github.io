@@ -10,8 +10,7 @@ labels:
   - Learning
 ---
 
-Software Engineering Inspiration
-
+## Software Engineering Inspiration
 My interest in becoming a software engineer started with something as simple as playing games. Whenever I play games, I sometimes ponder on how they're created. The curiosity that I had led me to learn about software engineering. Additionally, I heard that software engineers are in high demand and make a lot of money, which definitely added to my interest. But beyond the money aspect, what truly drives me is the knowledge of learning different programming languages, enabling me to create my own websites and video games.
 
 The idea of software engineering feels like puzzle after puzzle waiting to be put back together to create the bigger picture. I remember thinking about how it was possible to do such amazing things by only pressing a few buttons on your controller or keyboard. These thoughts turned into a desire to try and learn the background of the origin of games. The thought of creating something from scratch, whether it's a functional website or a game, sparks a sense of creativity within me. The added bonus to being a software engineer is the income that comes with being one since the demand for engineers is high. Therefore I want to be on the level to turn my imagination into reality, and software engineering seems to be the perfect place to start the journey.
