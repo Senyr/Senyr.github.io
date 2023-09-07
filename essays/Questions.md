@@ -10,7 +10,6 @@ labels:
   - Learning
 ---
 
-## SMART Questions
 ## Introduction
 In software engineering, asking smart questions is important. These questions improve communication and find better solutions. This essay explains why smart questions matter for software engineers, how well the chosen questions follow smart question follow the "How To Ask Smart Questions" by Eric Raymond, how responses show the quality of the questions, and what we've learned from this. The main goal is to understand what makes questions smart or not, so we can ask better ones in the future.
 
