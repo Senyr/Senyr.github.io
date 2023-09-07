@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "CS Inspiration"
+title: "SMART Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
 published: true
