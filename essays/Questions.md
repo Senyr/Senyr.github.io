@@ -15,7 +15,6 @@ labels:
 In the world of software engineering, asking smart questions is a valuable skill. These questions improve communication and help find better solutions. This essay explains why smart questions matter for software engineers, how well the chosen questions follow smart question guidelines, how responses show the quality of the questions, and what we've learned from this. Our main aim is to understand what makes questions smart or not, so we can ask better ones in the future.
 
 ## The Importance of Smart Questions
-
 Problem Solving:
 Smart questions serve as a cornerstone for effective problem-solving. Software engineers often face complex issues that require careful analysis. A well-framed question can guide engineers toward the root of the problem, accelerating the debugging process and enabling quicker resolutions.
 
@@ -44,7 +43,6 @@ https://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-t
 He asks how come he should use pointers rather than objects itself and provides an example of the code using a pointer instead of object and he also states that he came from a different language background. This could be considered a “smart question” because he explains the he came from a different background knowledge and also provides an example of code based off his confusion.
 
 ## Responses
-
 The responses to the two questions illustrate the importance of asking smart questions in software engineering. The first question received vague responses, with many asking for more details or providing general debugging advice. In contrast, the second question garnered more precise and relevant answers, as it provided a clear context and demonstrated effort and respect.
 
 Asking smart questions not only leads to better responses but also fosters a collaborative and positive environment in the software engineering community. It encourages knowledge sharing and helps individuals grow in their roles.
