@@ -38,12 +38,13 @@ When looking at "smart" questions on StackOverflow, there are some rules when ta
 Not Smart Question Summary:
 Following up with "not smart" questions, questions needing assistance, a question could need more context, and prior research. Therefore, the responses from the community could be more helpful and occasionally critique, undermining the importance of thoughtful and well-structured questions to foster productive interactions and receive valuable assistance within the software development community.
 
-Question 1: "What is VanillaJS?" https://stackoverflow.com/questions/20435653/what-is-vanillajs
+Question 1: "What is VanillaJS?" 
+[Smart Question](https://stackoverflow.com/questions/20435653/what-is-vanillajs)
 
 The basic question of “What is VanillaJS” was the question the user had. Asking what VanillaJS is without first attempting to research or understand this basic concept may come across as not putting in enough effort to learn the fundamentals. The question is quite vague and could be interpreted in different ways. Without context or prior effort to research the topic might be perceived as less thoughtful or less informed within certain technical communities.
 
 Question 2: "Why should I use a pointer rather than the object itself?”
-https://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-than-the-object-itself/22146244#22146244
+[Not A Smart Question](https://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-than-the-object-itself/22146244#22146244)
 
 He asks how come he should use pointers rather than objects itself and provides an example of the code using a pointer instead of object and he also states that he came from a different language background. This could be considered a “smart question” because he explains the he came from a different background knowledge and also provides an example of code based off his confusion.
 
