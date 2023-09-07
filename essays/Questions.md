@@ -12,7 +12,7 @@ labels:
 
 ## SMART Questions
 ## Introduction
-In the world of software engineering, asking smart questions is a valuable skill. These questions improve communication and help find better solutions. This essay explains why smart questions matter for software engineers, how well the chosen questions follow smart question guidelines, how responses show the quality of the questions, and what we've learned from this. Our main aim is to understand what makes questions smart or not, so we can ask better ones in the future.
+In software engineering, asking smart questions is important. These questions improve communication and find better solutions. This essay explains why smart questions matter for software engineers, how well the chosen questions follow smart question follow the "How To Ask Smart Questions" by Eric Raymond, how responses show the quality of the questions, and what we've learned from this. The main goal is to understand what makes questions smart or not, so we can ask better ones in the future.
 
 ## The Importance of Smart Questions
 Problem Solving:
@@ -24,7 +24,7 @@ Clear and concise questions enhance communication among team members. Smart ques
 The Precepts for Smart Questions
 
 Clarity:
-Smart questions are clear and specific, leaving no room for ambiguity. They precisely define the problem or topic, making it easier for others to understand and provide relevant answers.
+Smart questions are clear and specific, leaving no room for questioning. They precisely define the problem or topic, making it easier for others to understand and provide relevant answers.
 
 Context:
 Context is crucial for smart questions. They provide sufficient background information to help respondents understand the situation and provide informed answers.
@@ -32,6 +32,12 @@ Context is crucial for smart questions. They provide sufficient background infor
 Effort:
 Smart questions demonstrate that the asker has invested time and effort in understanding the issue. They show that the asker has researched the problem and tried potential solutions before seeking help.
 Chosen Questions and Analysis
+
+## Summary Of Smart Questions
+When looking at "smart" questions on StackOverflow, there are some rules when talking about "smart" questions by refferimg to the philosophy of Eric Raymonds essay. It tells if the question was specific, and well-researche. This approach shows the community to respond with efficient and practical help, illustrating the benefits of respectful and well-prepared answers within the community.
+
+Not Smart Question Summary:
+Following up with "not smart" questions, questions needing assistance, a question could need more context, and prior research. Therefore, the responses from the community could be more helpful and occasionally critique, undermining the importance of thoughtful and well-structured questions to foster productive interactions and receive valuable assistance within the software development community.
 
 Question 1: "What is VanillaJS?" https://stackoverflow.com/questions/20435653/what-is-vanillajs
 
@@ -42,9 +48,7 @@ https://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-t
 
 He asks how come he should use pointers rather than objects itself and provides an example of the code using a pointer instead of object and he also states that he came from a different language background. This could be considered a “smart question” because he explains the he came from a different background knowledge and also provides an example of code based off his confusion.
 
-## Responses
-The responses to the two questions illustrate the importance of asking smart questions in software engineering. The first question received vague responses, with many asking for more details or providing general debugging advice. In contrast, the second question garnered more precise and relevant answers, as it provided a clear context and demonstrated effort and respect.
+## Conclusion
+The responses to the two questions shows the importance of asking smart questions in software engineering. The first question received vague responses, with the community asking for more details. In contrast, the second question showed more precise and relevant answers, as it provided a clear context and demonstrated effort and respect.
 
-Asking smart questions not only leads to better responses but also fosters a collaborative and positive environment in the software engineering community. It encourages knowledge sharing and helps individuals grow in their roles.
-
-In conclusion, the ability to ask smart questions is a fundamental skill for smart software engineers. Smart questions drive efficient problem-solving, enhance communication, and promote continuous learning. By following the precepts for smart questions, engineers can improve their interactions with colleagues and gain deeper insights into their work. Embracing this skill is essential for personal and professional growth in the field of software engineering.
+In conclusion, asking smart questions not only leads to better responses but also fosters a collaborative and positive environment in the software engineering community. The ability to ask smart questions is a great skill for smart software engineers. Smart questions drive efficient problem-solving and better communication. By following the precepts for smart questions, engineers can improve their interactions with others and gain deeper insights into their work. Embracing this skill is essential for personal and professional growth in the field of software engineering.
