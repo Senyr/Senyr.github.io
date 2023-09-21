@@ -10,6 +10,17 @@ labels:
   - Learning
 ---
 
-## JavaScript: Coding Standards
+## The Importance of Coding Standards
 
-When it comes to the coding standards everyone has their opinion. The question to be asked does coding standards really help us code? In my persoanl opinion I believe the coding standards doesnt help with the functionality of the code and more of making the code look easily presentable. It is very important to have code that is easily readable for many factoes.For example if there was a certain bug/error you have to fix and your code looks messy it would be alot harder for you or any other person to help and debug the problem. Making the code neat is like decorating a food plate at a restaraunt, even though the food might taste good you still want the people eating eating the food to enjoy the presenation of it as well, people would like to enjoy a meal thats amazing even before it reaches their mouths
+##The Significance of Coding Standards
+When it comes to coding standards, everyone has their own opinion. Some wonder if these rules and guidelines truly help us write better code. In my personal view, coding standards may not directly improve the functionality of our code, but playS a role in making our code look presentable and easy to understand. This is important for several reasons. Think of it like decorating a delicious meal at a restaurant, even though the taste matters most, the presentation enhances the overall experience.
+
+Coding standards are like a set of rules that tell us how to write our code neatly and consistently. While they might not make our code work better, they make it easier to read and work with. Here are some key reasons why coding standards matter.Coding standards serve multiple essential purposes in software development. Firstly, they significantly improve code readability, akin to reading a well structured book where everything makes sense, easing bug fixes and troubleshooting. Secondly, in collaborative projects, adherence to coding standards ensures that everyone speaks the same coding language, promoting seamless understanding and teamwork among developers. Additionally, coding standards act as a shield against errors, offering clear rules for variable naming and code formatting, reducing the likelihood of small mistakes causing significant issues. Lastly, they serve as valuable learning tools, akin to following a recipe to master cooking, aiding in understanding programming languages' grammar and vocabulary, ultimately cultivating more skilled coders.
+
+During my initial week of utilizing ESLint in collaboration with IntelliJ, I encountered a few challenges. ESLint functions as an assistant, verifying if your code aligns with the coding standards. When you achieve that green checkmark, it symbolizes that you are effectively following to the rules. However, attaining this green checkmark can prove to be quite demanding. ESLint's strict nature, along with its annoying setup process, can be a bit of a  frustration. Personally, I had mix feelings about the setup since it involves downloading multiple files, which I found tedious. Nevertheless, despite the setup inconveniences, the core purpose of ESLint as a valuable coding aid shines through, simplifying the coding process and enhancing code quality when used effectively.
+
+
+
+
+
+
