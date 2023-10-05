@@ -21,10 +21,10 @@ People may ask why bother with these frameworks when you can just use plain HTML
 Plus, Bootstrap makes sure your website looks good on all kinds of devices, like phones and tablets. This can be tricky to do with just plain HTML and CSS, especially when your project gets more complicated. So, even though learning UI frameworks can be tough, they make web development more efficient and open up lots of creative possibilities, even for beginners. It's like having a secret tool that helps you build impressive websites.
 
 ## Ex: HTML/CSS
-<img width="300px" src="../img/history of browsers.png" class="img-thumbnail" >
+<img width="1000px" src="../img/history of browsers.png" class="img-thumbnail" >
 
 ##Ex: Bootstrap
-<img width="300px" src="../img/Mine 1.png.jpg" class="img-thumbnail" >
+<img width="1000px" src="../img/Mine 1.png.jpg" class="img-thumbnail" >
 
 
 
