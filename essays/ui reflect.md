@@ -24,7 +24,7 @@ Plus, Bootstrap makes sure your website looks good on all kinds of devices, like
 <img width="1000px" src="../img/history of browsers.png" class="img-thumbnail" >
 
 ##Ex: Bootstrap
-<img width="1000px" src="../img/Mine 1.png.jpg" class="img-thumbnail" >
+<img width="1000px" src="../img/Mine 1.png" class="img-thumbnail" >
 
 
 
