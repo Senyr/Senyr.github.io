@@ -62,6 +62,7 @@ const fruitNames = _.pluck(fruits, 'name');
 console.log(fruitNames); // Output: ['Apple', 'Banana', 'Grape']
 <br>
 
+
 Explaining code:
 AI was a valuable resource for code explanations, offering insights into the functionality of specific code snippets. Combining AI-generated explanations with personal understanding enhanced overall clarity.
 
