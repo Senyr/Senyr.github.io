@@ -10,41 +10,23 @@ labels:
   - Learning
 ---
 
-## Title: The musical code
+In my coding experiences, I envision each project as a musical piece, where every part harmonizes to create a beautiful composition. Design patterns, in this analogy, are akin to musical notes and arrangements that guide me in creating software that's not just functional but also fashionable. It's as if the code I create is a symphony, and these design patterns are the melodies ensuring everything fits together smoothly.
 
-In the coding world, imagine your project as a musical piece, where each part contributes to create a breautiful piece. 
-Design patterns are like mussical notes and arrangements that guide developers in creating software that's functional and elegant. 
-It's as if the code we create is a symphony, and these design patterns are the melodies ensuring everything fits together 
-smoothly.
+## What are Design Patterns?: Coded Melodies
 
-## Exploring the Harmony: What are Design Patterns?
+Design patterns, act like well-known solutions in coding that have been proven to be efficent for a long period of time, much like using familiar tunes or musical themes in songs. An example is the singleton pattern, which organizes code to ensure there's only one instance of something, similar to a specific melody repeating throughout a song. Using these patterns feels like relying on trusted methods that I know work well, creating clear and efficient code.
 
-Think of design patterns as reusable solutions to common problems in coding. They're like musical motifs, tried-and-true practices 
-that have proven effective over time. Let's take the Singleton pattern, for example. It's like a recurring theme in our symphony, ensuring 
-that a class has only one instance, just as a solo instrument maintains its presence throughout a musical piece. This keeps our code 
-focused and avoids unnecessary complications.
+## How I Use Them in My Code: Guidiing Harmony
 
-## Reaching the Crescendo: How I Use Them in My Code
+In my coding experiences, especially in my final project for ICS 314, design patterns have been my trusted guidelines. I employed the Observer pattern implicitly through the 'useTracker' hook, acting as a potent part in my code symphony. In the project, I applied it to make different parts work in unison, much like instruments syncing up with a conductor, ensuring all pieces work together smoothly.
 
-In my coding experienes, I've relied on design patterns as my guide. Consider the Observer pattern as a dynamic crescendo 
-in the code symphony. I recently used it to facilitate communication between different parts of a project. It's like instruments
-syncing through a conductor, ensuring all components work together harmoniously.
+Another pattern at my disposal is the Bridge pattern, connecting the form schema with the form library in one of my components. It's like creating a coherent link between different musical sections, ensuring the harmony of data exchange. This pattern, much like a musical bridge uniting two melodies, facilitated a smooth interaction between the form structure and the rendering library, enhancing the overall composition of my coding symphony.
 
-Another pattern in my toolkit is the Strategy pattern, much like a composer experimenting with different musical styles. 
-I applied it to a complex algorithmic challenge, allowing the system to seamlessly switch between different strategies. It's 
-akin to a musical performance adapting to different genres, creating a dynamic and versatile codebase.
+## The Grand Finale
 
-## The Grand Finale: Weaving a Masterpiece
+In the final stage of creating my software, the significance of design patterns becomes clearer. They're not just abstract concepts; they act like musical notations transforming my code into a well-structured composition. Through patterns like Observer and Bridge, I've crafted a system that works in unison effectively.
 
-In the final act of our software music piece, the importance of design patterns becomes clear. They're not just abstract ideas; 
-they're the musical notations that transform code into an eloquent composition. Through patterns like the Decorator, Factory Method, 
-and Command, I've crafted a tapestry of functionality that's both robust and inherently beautiful.
-
-As developers, we're the composers of our digital symphonies, and design patterns are our musical notes. They guide us in creating 
-software that's not just complex but also clear and elegant. So, when an interviewer asks about design patterns, 
-think of it as an opportunity to share the musical score of your coding journey – a story of patterns, harmonies, and a commitment 
-to crafting software that's both efficient and artful.
-
+As a developer, I see myself as the composer of my digital creations, and design patterns are like my musical notes. They help me craft software that's intricate yet easy to understand, adding a touch of classiness. So, when an interviewer brings up design patterns, I can showcase the musical journey that is my code.
 
 
 
