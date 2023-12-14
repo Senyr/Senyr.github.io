@@ -4,7 +4,7 @@ type: project
 image: img/download.jpg
 title: "HR"
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "I created a program that can add/delete employees and add certain information to their ID."
