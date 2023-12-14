@@ -4,7 +4,7 @@ type: essay
 title: "AI's are the future"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
