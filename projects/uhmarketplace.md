@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/G35IMAGE.jpg
+image: img/UH.png
 title: "UH-Marketplace"
 date: 2023
 published: true
@@ -29,6 +29,10 @@ My direct contributions to the UH Marketplace were diverse. I spearheaded the de
 <img width="1000px" src="../img/2nd.png" class="img-thumbnail" > 
 </div>
 
+
+<div class="text-left p-4">
+<img width="1000px" src="../img/Modal.png" class="img-thumbnail" > 
+</div>
 
 ## End
 Then comes the next problem, the car was overheating. So I went back to do more research and discovered that coolant is leaking from the car. With a little bit of looking I concluded it came from the waterpump. After removing the water pump I saw that it was corroded and coolant was leaking through the O-rings and that concluded the overheating problem. Up next was the exterior portion, I zip tied all the wires together to hold the in place and ordered a OEM front bumper and finally with alot of money spent extendive research I finally got the car in a good working condition.
