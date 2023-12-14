@@ -29,6 +29,7 @@ My direct contributions to the UH Marketplace were diverse. I spearheaded the de
 <img width="1000px" src="../img/2nd.png" class="img-thumbnail" > 
 </div>
 
+This feature allows pulls up another window to view the items details such as ListintgTitle, Price, Owner, Description, and Condition. 
 
 <div class="text-left p-4">
 <img width="1000px" src="../img/Modal.png" class="img-thumbnail" > 
