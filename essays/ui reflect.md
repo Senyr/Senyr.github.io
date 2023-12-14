@@ -4,7 +4,7 @@ type: essay
 title: "The Power Of Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
