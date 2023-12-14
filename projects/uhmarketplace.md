@@ -16,7 +16,7 @@ summary: "An application for UH students to buy/trade/sell items"
 We offer a way for students to buy/sell items. The marketplace is open for everyone to explore, allowing easy navigation through a search bar and a selection of pre-made filters. However, enhanced functionality becomes accessible when users log in as a “User” (specifically UHM students). As registered Users, individuals gain the ability to not only browse the marketplace but also delve into seller profiles, which display the user’s listed items and their respective ratings. Moreover, Users can take actions such as ordering, making offers, and purchasing goods directly from the marketplace. They can also create listings for items they wish to sell. Additionally, Users have the option to report other users or specific items on the marketplace that may violate guidelines. Administrators possess the authority to remove items from the marketplace if they are deemed unsafe, inappropriate, or illegal, ensuring a safe and reliable environment for all users.
 
 <div class="text-left p-4">
-<img width="300px" src="../img/1st.png" class="img-thumbnail" > 
+<img width="700px" src="../img/1st.png" class="img-thumbnail" > 
 </div>
 
 ### Contribution
