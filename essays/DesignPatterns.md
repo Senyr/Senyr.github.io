@@ -13,8 +13,16 @@ labels:
  <img width="350px" src="../img/music.jpg" class="img-thumbnail" >
 </div>
 
-In my coding experiences, I envision each project as a musical piece, where every part harmonizes to create a beautiful composition. Design patterns, in this analogy, are akin to musical notes and arrangements that guide me in creating software that's not just functional but also fashionable. It's as if the code I create is a symphony, and these design patterns are the melodies ensuring everything fits together smoothly.
-
+### Personal Experience
+In my coding adventures, I like to think of each project as a musical composition, with design patterns serving as the musical notes 
+that guide me in creating software that's not only functional but also elegant. These patterns are like familiar tunes, proven 
+solutions that ensure efficiency and harmony in the code. I've applied design patterns, like the Observer and Bridge patterns, in 
+projects such as my ICS 314 final assignment, where they acted as guiding principles, much like orchestrating a symphony. 
+The Observer pattern helped different components work together smoothly, like instruments syncing with a conductor, while the Bridge 
+pattern created a coherent link, similar to a musical bridge, connecting different elements for seamless data exchange. Another 
+example is the Decorator pattern in a data validation module, allowing for dynamic extension of behavior, similar to adding layers 
+of complexity to a musical piece. Overall, these design patterns act like musical notations, transforming my code into a 
+well-structured and harmonious composition, showcasing the artistry in crafting software solutions.
 ## What are Design Patterns?: Coded Melodies
 Design patterns act like well-known solutions in coding that have been proven to be efficient for a long period of time, much like using familiar tunes or musical themes in songs. An example is the singleton pattern, which organizes code to ensure there's only one instance of something, similar to a specific melody repeating throughout a song. Using these patterns feels like relying on trusted methods that I know work well, creating clear and efficient code.
 
