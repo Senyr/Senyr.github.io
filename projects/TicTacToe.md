@@ -18,6 +18,10 @@ summary: "Its a fun TicTacToe Game."
 
 The TicTacToe program sets up a TicTacToe game board on a 3x3 grid. Each player gets a turn going, Player One's mark is an "X" while Player Two's mark is an "O". The first player to get 3 in a row with their mark wins. If no player wins it ends in a draw
 
+## Learning Experience
+When creating a TicTacToe game, I learned the importance of carefully designing the game logic to ensure a fair and enjoyable experience for the players. Establishing a clear structure for the game board, handling player turns, and implementing win conditions demanded meticulous attention to detail. Additionally, managing user input validation became a crucial aspect, ensuring that players could only make valid moves within the bounds of the grid. Understanding the dynamics of tracking the state of the game and determining a winner or a draw enhanced my problem-solving skills. Moreover, creating a visually appealing and user-friendly interface contributed to a more immersive gaming experience. Overall, developing a TicTacToe game provided insights into game development principles, logical reasoning, and user interaction, fostering a deeper understanding of programming concepts and the significance of user experience in application development.
+
+## Example of the Code
 Here is a little portion of the code: THat sets up the game board
 
 public class TicTacToe implements ActionListener{

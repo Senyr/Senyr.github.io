@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript Reflection: Similarities, ES6 Upgrades, and WOD Challenges in ICS 314"
+title: "New Adventures: The Path of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
