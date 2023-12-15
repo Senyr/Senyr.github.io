@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Ryne Stagen",
+    "label": "Student",
+    "picture": "https://github.com/Senyr.png",
+    "email": "rynestagen@gmail.com",
+    "phone": "808-123-4444",
+    "website": "https://Senyr.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Senyr", "url": "http://github.com/Senyr" },
+      { "network": "linkedin", "username": "Ryne Stagen", "url": "https://www.linkedin.com/in/ryne-stagen-403ab7289/" },
+      { "network": "twitter", "username": "Senyr", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "Senyr", "url": "http://instagram.com/_Senyr" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Programming" },
+    { "name": "Astronomy" },
+    { "name": "Cars" },
+    { "name": "Working Out" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript, HTMl,"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Target",
+      "position": "Flex Fullfillment",
+      "website": "",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "The fulfillment team picks, preps, packs, sorts, and ships products safely, efficiently and effectively to deliver convenience and quality for our guests.",
+      "highlights": [
+        "Experience in retail business fundamentals including: department sales trends, inventory management, and process efficiency and improvement",
+        "Skills to assess your daily business and utilize tools to determine how to meet digital demand"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Kroc Center",
+      "website": "https://kroccenterhawaii.org/kroc-hawaii/",
+      "position": "Helper",
+      "startDate": "2018-01-15",
+      "endDate": "2018-01-17",
+      "summary": "Helping the community and picking up trash around and at Kapolei High School",
+      "highlights": [
+        "Making the community a cleaner place",
+        "Working with others to achieve a common goal"
+      ]
+    },
+    {
+      "organization": "Kapolei High School",
+      "website": "https://www.kapoleihigh.org/",
+      "position": "Internship",
+      "startDate": "2020-03-15",
+      "endDate": "2020-03-19",
+      "summary": "Helped and learned construction work for the Makakilo Elementary School",
+      "highlights": [
+        "Making a better environment for kids",
+        "Learning new skills",
+        "Working as a team"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "CTE Honors",
+      "date": "2021",
+      "awarder": "Kapolei High School",
+      "summary": "Awarded to those who completed the CTE Honors project."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

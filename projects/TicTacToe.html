@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="TicTacToe | Ryne Stagen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/Senyr.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ryne Stagen | Professional Portfolio">
+    <meta property="og:url" content="https://Senyr.github.io/projects/TicTacToe.html">
+    <meta property="og:title" content="TicTacToe | Ryne Stagen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/Senyr.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>TicTacToe | Ryne Stagen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Ryne Stagen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">TicTacToe</h1>
+ <div class="text-center p-4">
+  
+  <img width="400px" src="../img/TicTacToeGame.png" class="img-thumbnail" />
+ 
+</div>
+
+<p>The TicTacToe program sets up a TicTacToe game board on a 3x3 grid. Each player gets a turn going, Player One’s mark is an “X” while Player Two’s mark is an “O”. The first player to get 3 in a row with their mark wins. If no player wins it ends in a draw</p>
+
+<h2 id="learning-experience">Learning Experience</h2>
+<p>When creating a TicTacToe game, I learned the importance of carefully designing the game logic to ensure a fair and enjoyable experience for the players. Establishing a clear structure for the game board, handling player turns, and implementing win conditions demanded meticulous attention to detail. Additionally, managing user input validation became a crucial aspect, ensuring that players could only make valid moves within the bounds of the grid. Understanding the dynamics of tracking the state of the game and determining a winner or a draw enhanced my problem-solving skills. Moreover, creating a visually appealing and user-friendly interface contributed to a more immersive gaming experience. Overall, developing a TicTacToe game provided insights into game development principles, logical reasoning, and user interaction, fostering a deeper understanding of programming concepts and the significance of user experience in application development.</p>
+
+<h2 id="example-of-the-code">Example of the Code</h2>
+<p>Here is a little portion of the code: THat sets up the game board</p>
+
+<p>public class TicTacToe implements ActionListener{</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Random random = new Random();
+JFrame frame = new JFrame();
+JPanel title_panel = new JPanel();
+JPanel button_panel = new JPanel();
+JLabel textfield = new JLabel();
+JButton[] buttons = new JButton[9];
+boolean player1_turn;
+
+TicTacToe(){
+	
+	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	frame.setSize(800,800);
+	frame.getContentPane().setBackground(new Color(50,50,50));
+	frame.setLayout(new BorderLayout());
+	frame.setVisible(true);
+	
+	textfield.setBackground(new Color(25,25,25));
+	textfield.setForeground(new Color(25,255,0));
+	textfield.setFont(new Font("Ink Free",Font.BOLD,75));
+	textfield.setHorizontalAlignment(JLabel.CENTER);
+	textfield.setText("Tic-Tac-Toe");
+	textfield.setOpaque(true);
+	
+	title_panel.setLayout(new BorderLayout());
+	title_panel.setBounds(0,0,800,100);
+	
+	button_panel.setLayout(new GridLayout(3,3));
+	button_panel.setBackground(new Color(150,150,150));
+	
+	for(int i=0;i&lt;9;i++) {
+		buttons[i] = new JButton();
+		button_panel.add(buttons[i]);
+		buttons[i].setFont(new Font("MV Boli",Font.BOLD,120));
+		buttons[i].setFocusable(false);
+		buttons[i].addActionListener(this);
+	}
+	
+	title_panel.add(textfield);
+	frame.add(title_panel,BorderLayout.NORTH);
+	frame.add(button_panel);
+	
+	firstTurn();
+}
+</code></pre></div></div>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
