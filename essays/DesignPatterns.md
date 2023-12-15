@@ -9,6 +9,9 @@ labels:
   - Software Engineering
   - Learning
 ---
+<div style="display: flex; justify-content: center;">
+ <img width="350px" src="../img/music.jpg" class="img-thumbnail" >
+</div>
 
 In my coding experiences, I envision each project as a musical piece, where every part harmonizes to create a beautiful composition. Design patterns, in this analogy, are akin to musical notes and arrangements that guide me in creating software that's not just functional but also fashionable. It's as if the code I create is a symphony, and these design patterns are the melodies ensuring everything fits together smoothly.
 
