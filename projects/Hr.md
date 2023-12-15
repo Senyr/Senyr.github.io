@@ -39,6 +39,3 @@ Here is some code that shows how to remove an employee:
          }
       }   
       return employeeArray;
-
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).

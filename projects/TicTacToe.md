@@ -16,9 +16,9 @@ summary: "Its a fun TicTacToe Game."
  
 </div>
 
-The TicTacToe program sets up a TicTacToe game board on a 3x3 grid. Each player gets a turnn going, Player One's mark is an "X" while Player Two's mark is an "O". The first player to get 3 in a row with their mark wins. If no player wins it ends in a draw
+The TicTacToe program sets up a TicTacToe game board on a 3x3 grid. Each player gets a turn going, Player One's mark is an "X" while Player Two's mark is an "O". The first player to get 3 in a row with their mark wins. If no player wins it ends in a draw
 
-Here is a little portion of the code: THat sets up the gameboard
+Here is a little portion of the code: THat sets up the game board
 
 public class TicTacToe implements ActionListener{
 
