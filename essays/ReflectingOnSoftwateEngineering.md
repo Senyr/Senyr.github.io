@@ -23,7 +23,7 @@ Proficiency in both Configuration Management and project management is indispens
 software solutions on time and within budget.
 
 <div>
- <img width="350px" src="../img/M1.png" class="img-thumbnail" >
+ <img width="400px" src="../img/M1.png" class="img-thumbnail" >
 </div>
 
 Agile Project Management, especially the Issue Driven Project Management style we learned, has applications beyond the web. Agile principles emphasize adaptability, teamwork, and iterative progress, making them valuable in managing different kinds of projects. Whether it's coding or non-coding, Agile can improve responsiveness, communication, and project timelines.
@@ -41,7 +41,7 @@ considering the ethical implications of our work. This foundation gives me the t
 landscape of software engineering, showing how these fundamental concepts are applicable and adaptable in many 
 different scenarios.
 <div style="display: flex; justify-content: center;">
-<img width="400px" src="../img/OIP.jpg" class="img-thumbnail" >
+<img width="450px" src="../img/OIP.jpg" class="img-thumbnail" >
 </div>
 
 
