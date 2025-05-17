@@ -10,9 +10,13 @@ labels:
 ---
 ## ICS 414 Reflection
 
-One of the most interesting parts of the course was learning how to use Next.js and TypeScript. At first, the new language and editor were confusing. But as I kept working with them, they became easier to navigatge. The learning process wasn’t easy, but it felt great to see the things I built actually working.
+This year I took ICS 414 (Software Engineering). This class was to be taught about real world environment that allow the students
+to work as a group to build a financial tool application for the company Spire. This course showed us the importance of effective
+teamwork, problem-solving skills, and creativity. 
 
-One challenge we had was trying to understand and use data from Excel sheets. The data was hard to read, and it wasn’t the easiet thing to be explained. This showed me how important it is to have organized data and good instructions, especially in real-life projects.
+One of the most challenging parts of the course was learning how to use Next.js and TypeScript. At first, the new language and editor were confusing. But as I kept working with them, they became easier to navigate. The learning process wasn’t easy, but it felt great to see the things I built actually working.
+
+One challenge we had was trying to understand and use data from Excel sheets. The data was hard to read, and it was pretty challenging to be explained. This showed me how important it is to have organized data and good instructions, especially in real-life projects.
 
 Our team worked really well together. We kept in touch, shared updates, and helped each other through problems. Still, we did run into trouble when we split the team into just front-end and back-end groups. It made it hard to connect the two parts of the project smoothly. We learned it’s better when everyone has some idea of both sides, so the project flows better and the team stays connected.
 
