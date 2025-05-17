@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      # ✅ Updated from cache@v2 to cache@v4 to avoid deprecation
+
       - uses: actions/cache@v4
         with:
           path: vendor/bundle
@@ -19,10 +18,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      # ✅ Add this step to fix the RubyGems version incompatibility
-      - name: Upgrade RubyGems
+      # ✅ Use newer Ruby version with updated RubyGems
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2' # You can use '3.3' if your project supports it
+
+      # ✅ Install dependencies
+      - name: Install dependencies
         run: |
-          gem update --system 3.4.10
+          gem install bundler
+          bundle install
 
       - uses: limitusus/json-syntax-check@v1
         with:
@@ -31,4 +37,4 @@ jobs:
       - uses: helaili/jekyll-action@2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+          target_branch: 'gh-pages_
