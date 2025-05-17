@@ -1,4 +1,5 @@
-layout: essay  
+---
+layout: essay
 type: essay  
 title: "Final Reflection"  
 date: 2025-05-16  
@@ -7,6 +8,7 @@ labels:
 - Software Engineering
 - Learning
 ---
+## ICS 414 Reflection
 
 One of the most interesting parts of the course was learning how to use Next.js and TypeScript. At first, the new language and editor were confusing. But as I kept working with them, they became easier to navigatge. The learning process wasn’t easy, but it felt great to see the things I built actually working.
 
