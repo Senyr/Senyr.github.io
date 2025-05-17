@@ -20,8 +20,8 @@ But as I kept working with them, they became easier to navigate. The learning pr
 One challenge we had was trying to understand and use data from Excel sheets. The data was hard to read, and it was pretty challenging to be explained. 
 This showed me how important it is to have organized data and good instructions, especially in real-life projects.
 
-For this project I decided to go with the front end approach. I took it upon myself to work on financial input page, contact-us page, stress test input page, and view stress tests page
-Even though I could not complete all of these pages, each page had its own design and I had to think about how the client would feel about the look and interface of each page
+For this project I decided to go with the front end approach. I took it upon myself to work on financial input page, contact-us page, stress test input page, and view stress tests page.
+ Even though I could not complete all of these pages, each page had its own design and I had to think about how the client would feel about the look and interface of each page
 ## Team Communication and Challenges
 Knowing what the semester entailed, I wanted to use this opportunity to become a better team player. I realized early on that working on a real-world project with others would require strong communication, 
 collaboration, and flexibility. I made it a goal to actively participate in team discussions, share updates regularly, and support my 
