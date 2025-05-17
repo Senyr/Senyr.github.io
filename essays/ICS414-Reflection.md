@@ -3,7 +3,7 @@ type: essay
 title: "Final Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2025-16-05
-published: false
+published: true
 labels:
 - Software Engineering
 - Learning
