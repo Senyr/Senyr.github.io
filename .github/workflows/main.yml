@@ -6,38 +6,28 @@ on:
       - main
 
 jobs:
-  github-pages:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout source
-        uses: actions/checkout@v2
 
-      - name: Set up Ruby
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
-
-      - name: Cache RubyGems
-        uses: actions/cache@v4
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          ruby-version: '3.2' # or latest stable version
+          bundler-cache: true
 
       - name: Install dependencies
         run: |
-          gem install bundler
-          bundle config set path 'vendor/bundle'
           bundle install
 
-      - name: JSON syntax check
-        uses: limitusus/json-syntax-check@v1
-        with:
-          pattern: "\\bio.json$"
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
-      - name: Build and deploy Jekyll
-        uses: helaili/jekyll-action@2.5.0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
